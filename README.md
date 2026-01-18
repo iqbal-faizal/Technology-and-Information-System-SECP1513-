@@ -24,7 +24,7 @@ It contains 6 assignments with explanations, resources, and personal reflections
 ### **Picture:**
 ![Poster](images/assignment_2.jpeg)  
 ### PDF File:
-- [Poster PDF](Poster_Assignment.pdf)  
+- [Poster PDF](poster.pdf)  
 ### **Reflection:**  
 - This assignment improved my design skills and taught me how to present information clearly and attractively.
 
