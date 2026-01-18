@@ -33,7 +33,7 @@ It contains 6 assignments with explanations, resources, and personal reflections
 ## 3. Academic Writing
 - **About:** Writing a structured academic report on IT-related topics.   
 ### **PDF File:**  
-- [Academic Writing Report](Assignment_3_Academic_Writing_Report.pdf)  
+- [Academic Writing Report](file/academic_writing.pdf)  
 ### **Reflection:**  
 - I developed my research and writing skills, learning to present ideas in a formal academic style.
 
@@ -44,7 +44,7 @@ It contains 6 assignments with explanations, resources, and personal reflections
 ### **Picture:** 
 ![Newsletter](images/industrial_visit.jpeg)  
 ### **Links:**  
-- [Newsletter PDF](Newsletter_Industrial_Visit_2.pdf)  
+- [Newsletter PDF](file/newsletter_industrial_visit.pdf)  
 ### **Reflection:**  
 This assignment enhanced my communication and design skills, making technical content engaging for readers.
 
@@ -64,8 +64,8 @@ This assignment enhanced my communication and design skills, making technical co
 ### **Picture:** 
 ![Design Thinking](images/design_thinking.jpeg)  
 ### **Links:**  
-- [Report](Report_Design_Thinking.pdf)  
-- [Slide Presentation](Slide_Presentation_Design_Thinking.pdf)  
+- [Report](file/Report_Design_Thinking.pdf)  
+- [Slide Presentation](file/designthinking_slide.pdf)  
 - [Video](https://drive.google.com/file/d/1v4eVpITTdq_y-FpERWYwJz9Q1iffcGZG/view?usp=sharing)  
 ### **Reflection:**  
 - This assignment taught me teamwork, creativity, and how to approach problems with user-centered solutions.
