@@ -13,7 +13,7 @@ It contains 6 assignments with explanations, resources, and personal reflections
 
 ![UTM Digital Day](images/assignment_1.jpeg)  
 ### **Links:**
-- [YouTube Vlog](https://youtu.be/sYgdaEgtzuI?si=OcN9H47YmHhYaP9P)  
+- [UTM Digital Day Vlog](https://youtu.be/sYgdaEgtzuI?si=OcN9H47YmHhYaP9P)  
 ### **Reflection:**  
 - Creating a short vlog allowed me to express my learning experience in a dynamic and engaging format. I explored basic video editing techniques and learned how to communicate ideas visually. This assignment helped me build confidence in presenting and storytelling through multimedia.
 
@@ -24,7 +24,7 @@ It contains 6 assignments with explanations, resources, and personal reflections
 ### **Picture:**
 ![Poster](images/assignment_2.jpeg)  
 ### PDF File:
-- [Poster PDF](file/poster.pdf)  
+- [Poster_PDF](file/poster.pdf)  
 ### **Reflection:**  
 - Designing the poster taught me how to distill complex information into a visually appealing layout. I experimented with typography, color balance, and hierarchy to make the content clear and attractive. It also strengthened my ability to communicate key messages quickly and effectively.
 
@@ -43,7 +43,7 @@ It contains 6 assignments with explanations, resources, and personal reflections
 ### **Picture:** 
 ![Newsletter](images/industrial_visit.jpeg)  
 ### **Links:**  
-- [Newsletter PDF](file/newsletter_industrial_visit.pdf)  
+- [Newsletter_PDF](file/newsletter_industrial_visit.pdf)  
 ### **Reflection:**  
 - Creating the newsletter helped me translate technical insights from the industrial visit into a reader-friendly format. I practiced layout design and concise writing to make the content informative yet engaging. It also gave me a taste of how media and design intersect in professional settings.
 ---
@@ -61,9 +61,9 @@ It contains 6 assignments with explanations, resources, and personal reflections
 ### **Picture:** 
 ![Design Thinking](images/design_thinking.jpeg)  
 ### **Links:**  
-- [Report](file/Report_Design_Thinking.pdf)  
-- [Slide Presentation](file/designthinking_slide.pdf)  
-- [Video](https://drive.google.com/file/d/1v4eVpITTdq_y-FpERWYwJz9Q1iffcGZG/view?usp=sharing)  
+- [Design Thinking Report](file/Report_Design_Thinking.pdf)  
+- [Design Thinking Slide Presentation](file/designthinking_slide.pdf)  
+- [Design Thinking Video](https://drive.google.com/file/d/1v4eVpITTdq_y-FpERWYwJz9Q1iffcGZG/view?usp=sharing)  
 ### **Reflection:**  
 - This assignment introduced me to the design thinking process — empathizing, ideating, prototyping, and testing. Working in a team, I learned how to approach problems creatively and iteratively, always keeping the user in mind. It was one of the most collaborative and eye-opening tasks in the course.
 ---
